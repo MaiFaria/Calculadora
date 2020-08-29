@@ -104,5 +104,4 @@ public class Calculadora {
             }
         }while (opcao != 0);       
     }
-    
 }
